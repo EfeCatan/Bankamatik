@@ -6,6 +6,8 @@ Emeği geçen kişiler:
 202307105037-Efe Çatan
 202307105027-Egemen Aksu
 
+* Proje Interface.py Üzerinden çalıştırılmaktadır! *
+
 Bankamatik de kullanılan, müşteriye aracı olan fonksiyonlar:
 1) Para Yatırma
 2) Para Çekme
